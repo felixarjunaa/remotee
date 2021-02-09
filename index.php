@@ -8,5 +8,7 @@
 <body>
     <h1> Hello World! </h1>
     <p> Lorem </p>
+        <li>satu</li>
+        <li>dua</li>
 </body>
 </html>
